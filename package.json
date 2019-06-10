@@ -1,0 +1,15 @@
+{
+  "name": "tic80-js-template",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "tic80-js"
+  },
+  "author": "Rob Loach",
+  "license": "MIT",
+  "dependencies": {
+    "tic80-js": "RobLoach/tic80-js"
+  },
+  "engines": {
+    "node": ">=11"
+  }
+}
