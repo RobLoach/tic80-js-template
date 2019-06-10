@@ -1,6 +1,6 @@
 # TIC-80 JavaScript Template
 
-This is a template to build TIC-80 games through bundled JavaScript.
+Template to build TIC-80 games with JavaScript, bundled together with [TIC-80 JS](https://github.com/RobLoach/tic80-js).
 
 ## Usage
 
